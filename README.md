@@ -1,4 +1,0 @@
-Cipher-Koding
-=============
-
-Spoon-Koding
